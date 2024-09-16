@@ -1,6 +1,6 @@
 # terraform-k8s-updated
 
-
+```
 terraform-eks/
 ├── main.tf
 ├── variables.tf
@@ -19,3 +19,4 @@ terraform-eks/
 │       ├── variables.tf
 │       └── outputs.tf
 └── terraform.tfvars
+```
